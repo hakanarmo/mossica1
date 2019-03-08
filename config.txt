@@ -1,4 +1,4 @@
-token=NDY4Mzk4ODE0NTAwNDg3MTY5.Dsz2Vw.-WiQuZLxLjEHdELM908gXf3d5e4
+token=
 owner=201460488037466112
 prefix=1
 game=1help - Seraphim Joky
